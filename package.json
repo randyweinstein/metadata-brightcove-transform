@@ -1,0 +1,21 @@
+{
+    "name": "metadata-brightcove-transform",
+    "version": "0.1.0",
+    "description": "This package reads data from the Brightcove API and outputs MRSS",
+    "author": "Randy Weinstein",
+    "private": false,
+    "license": "GPL-3.0-only",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xxxxxx/metadata-brightcove-transform.git"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "nbright": "^1.0.7",
+        "xmlbuilder": "^10.0.0",
+        "promise": "^8.0.1"
+    }
+}
