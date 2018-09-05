@@ -6,4 +6,5 @@ This project transforms output from the BrightCove API into MRSS
 1. Install [node.js](https://nodejs.org/en/download/) 
 2. Install npm   `curl http://npmjs.org/install.sh | sh`
 3. Install `npm install`
-4. Run `npm run start`
+4. Edit the three required fields in config.js
+5. Run `npm run start`
